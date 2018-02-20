@@ -77,8 +77,8 @@ Now that your certificate has successfully been exported as a PKCS12 file we nee
 
 4. Once added, leave the Certificate Manger window and select the newly imported certificate from the certificate store for both **Digital Signing** and **Encryption**.
 
-5. Ensure the box labelled "Digitally sign messages", is checked. Also make sure the radio button for "Default encryption setting when sending messages" is set to _**REQUIRED**_.
+5. Ensure the box labelled "Digitally sign messages", is checked. Also make sure the radio button for "Default encryption setting when sending messages" is set to _**NEVER**_.
 
 ![Security Window]({{ site.baseurl }}/images/smime/security_window.png)
 
-**NOTE: By Default all emails will be signed by you, however, despite encryption being _required_ the email will only be encrypted if both parties are using S/MIME _AND_ both parties have previously exchanged public keys.**
+**NOTE: By Default all emails will be signed by you, however, the email can only be encrypted if both parties are using S/MIME _AND_ both parties have previously exchanged public keys.**
