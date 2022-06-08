@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Setup a Personal S/MIME Certificate (Thunderbird)
+title: Configuring a Personal S/MIME Certificate
 ---
 
 This write-up is intended to not expect any significant amount of technical knowledge, it is tailored to those who have an interest in protecting their online identity. I will do my best to detail each of the longer sections into two parts: 
