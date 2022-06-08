@@ -3,8 +3,6 @@ layout: post
 title: Sniffing Cloud at Cost VNC Sessions
 ---
 
-## Background
-
 Cloud at Cost is a company that sells virtual resources to a customer for a one-time fee. Users are given an administrative panel where they can create, destroy and gain console access (via VNC) to their virtual machines. Out of curiosity, I decided to do a packet capture of the VNC connection that grants users console access.
 
 
