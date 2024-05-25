@@ -10,5 +10,5 @@ I am a Senior Security Engineer and alumnus of Rochester Institute of Technology
 
 ### Contact me
 
-[lchristian2014@gmail.com](mailto:lchristian2014@gmail.com)
+[lucas@lucaschristian.com](mailto:lucas@lucaschristian.com)
 
